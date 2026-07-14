@@ -1,0 +1,28 @@
+﻿[
+  {
+    "DurationSeconds": 420,
+    "TextMessage": "Кофе готов!",
+    "VoiceFilePath": "",
+    "SoundName": "Music\\\\oceans-12.ogg",
+    "Volume": 80,
+    "SoundRepeats": "2",
+    "ScaleColor": "#FF8040",
+    "ScalePosition": "Вверху экрана",
+    "PlayVoiceFirst": false,
+    "VisualFlash": true,
+    "VisualDim": true,
+    "FadeIn": true,
+    "IsCompactMode": false,
+    "IsInvisible": false,
+    "IsAutoNext": false,
+    "PlaySpokenText": true,
+    "WindowMode": "Полноэкранный",
+    "IsPauseMedia": true,
+    "AmbientSoundEnabled": true,
+    "AmbientSoundType": "Огонь\\Горение дров в камине.ogg",
+    "AmbientVolume": 45,
+    "CustomFilePath": "",
+    "IsSpecificTime": false,
+    "TargetTimeStr": ""
+  }
+]
