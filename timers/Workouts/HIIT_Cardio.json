@@ -1,0 +1,54 @@
+[
+    {
+        "DurationSeconds": 45,
+        "TextMessage": "1. Джампинг Джеки (Прыжки с разведением рук/ног)",
+        "SoundName": "Будильник 1",
+        "Volume": 80,
+        "SoundRepeats": "1",
+        "ScaleColor": "#E67E22",
+        "ScalePosition": "Низ",
+        "AutoNext": true,
+        "Metronome": true
+    },
+    {
+        "DurationSeconds": 15,
+        "TextMessage": "Восстановление",
+        "SoundName": "Будильник 2",
+        "Volume": 60,
+        "SoundRepeats": "1",
+        "ScaleColor": "#2ECC71",
+        "ScalePosition": "Низ",
+        "AutoNext": true
+    },
+    {
+        "DurationSeconds": 45,
+        "TextMessage": "2. Берпи (Интенсивное упражнение)",
+        "SoundName": "Будильник 1",
+        "Volume": 80,
+        "SoundRepeats": "1",
+        "ScaleColor": "#E67E22",
+        "ScalePosition": "Низ",
+        "AutoNext": true,
+        "Metronome": true
+    },
+    {
+        "DurationSeconds": 15,
+        "TextMessage": "Восстановление",
+        "SoundName": "Будильник 2",
+        "Volume": 60,
+        "SoundRepeats": "1",
+        "ScaleColor": "#2ECC71",
+        "ScalePosition": "Низ",
+        "AutoNext": true
+    },
+    {
+        "DurationSeconds": 45,
+        "TextMessage": "3. Планка на локтях (Статическая нагрузка)",
+        "SoundName": "Будильник 3",
+        "Volume": 80,
+        "SoundRepeats": "2",
+        "ScaleColor": "#9B59B6",
+        "ScalePosition": "Низ",
+        "AutoNext": false
+    }
+]
